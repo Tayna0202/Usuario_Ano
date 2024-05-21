@@ -11,5 +11,5 @@
 ## Clone o projeto
 
 ```bash
-git clone
+git clone https://github.com/Tayna0202/Usuario_Ano.git
 ```
